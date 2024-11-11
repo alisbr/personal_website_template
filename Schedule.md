@@ -1,24 +1,24 @@
 ---
 layout: single
 author_profile: true
-permalink: /Schedule/
+permalink: /schedule/
 title: Inja barnamamo minevisam
-tags: [Plansss]
+tags: [plansss]
 modified: 4-10-2019
 comments: true
 ---
 
-# Darsam
+# darsam
 
-Mabani 
+mabani 
 
-Kargah 
+kargah 
 
-Zaban
+zaban
 
-Riazi
+riazi
 
-Physic
+physic
 
-Andishe
+andishe
 

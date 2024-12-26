@@ -2,16 +2,16 @@
 layout: single
 author_profile: true
 permalink: /friends/
-title: My friends around the world
+title: My friends in the uni
 tags: [friends]
 modified: 4-10-2019
 comments: true
 ---
 
-### همکلاسی‌ها
+### Classmates
 * [علی حسینی](http://alihosseini.github.io)
-* بهداد محمدی
-* حسن داریان
+* [بهداد محمدی](http://behdadmohammadi.github.io)
+* [حسن داریان](http://hassandarian.github.io)
 
 
 

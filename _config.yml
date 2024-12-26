@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : klaythompson
 facebook:
-  username               : sauleh.eetemadi
+  username               : KlayThompson
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -111,34 +111,34 @@ author:
   avatar           : number-11-klay-thompson-72xpv2wo11ig4qyb.jpg
   bio              : I'm the best student.
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
+  email            : a.salisaberi1385@gmail.com
+  twitter: klaythompson
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: alisbr
+  instagram: klaythompson
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: mailto:a.salisaberi1385@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      # url: "https://twitter.com/KlayThompson"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: "https://facebook.com/KlayThompson"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/alisbr"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://instagram.com/klaythompson"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "http://t.me/alisbrrr"
 
 # Site Footer
 footer:

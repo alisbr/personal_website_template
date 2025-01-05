@@ -16,3 +16,5 @@ gallery:
 # MyFinal
 
 ## Exam day shots
+
+![Exam Day Shot](/assets/images/Capture.jpg)

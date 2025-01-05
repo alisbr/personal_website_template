@@ -6,4 +6,7 @@ permalink: /myfinal/
 
 # MyFinal
 
-Content for MyFinal goes here...
+## Exam day shots
+
+![Exam Day Shot](assets/images/Capture.jpg)
+
